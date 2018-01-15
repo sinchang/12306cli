@@ -1,7 +1,7 @@
 
-# @sinchang/12306cli
+# 12306cli
 
-[![NPM version](https://img.shields.io/npm/v/@sinchang/12306cli.svg?style=flat)](https://npmjs.com/package/@sinchang/12306cli) [![NPM downloads](https://img.shields.io/npm/dm/@sinchang/12306cli.svg?style=flat)](https://npmjs.com/package/@sinchang/12306cli) [![CircleCI](https://circleci.com/gh/sinchang/@sinchang/12306cli/tree/master.svg?style=shield)](https://circleci.com/gh/sinchang/@sinchang/12306cli/tree/master)  [![codecov](https://codecov.io/gh/sinchang/@sinchang/12306cli/branch/master/graph/badge.svg)](https://codecov.io/gh/sinchang/@sinchang/12306cli)
+[![NPM version](https://img.shields.io/npm/v/@sinchang/12306cli.svg?style=flat)](https://npmjs.com/package/@sinchang/12306cli) [![NPM downloads](https://img.shields.io/npm/dm/@sinchang/12306cli.svg?style=flat)](https://npmjs.com/package/@sinchang/12306cli)
 
 ## Install
 
