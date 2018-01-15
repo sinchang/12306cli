@@ -1,18 +1,15 @@
 {
   "name": "@sinchang/12306cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个查询 12306 余票的命令行工具",
   "repository": {
     "url": "sinchang/12306-cli",
     "type": "git"
   },
-  "main": "dist/index.common.js",
+  "main": "src/cli.js",
   "bin": {
     "12306cli": "src/cli.js"
   },
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "test:cov": "jest --coverage && npm run lint",
     "test": "npm run lint && jest",
